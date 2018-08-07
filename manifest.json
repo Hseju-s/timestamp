@@ -1,0 +1,14 @@
+{
+  "files": {
+    "index.js": "f6c3646e48180584359177fd1017910a19ad08f17c0698dab601269ce5ce7bf3"
+  },
+   "defs": {
+	  "S_ADD_BLOCKED_USER": 2,
+	  "S_USER_BLOCK_LIST": 2,
+	  "C_REMOVE_BLOCKED_USER": 1,
+      "S_LOGIN": 10,
+      "S_CHAT": 2,
+      "S_WHISPER": 2,
+      "S_PRIVATE_CHAT": 1
+  }
+}
